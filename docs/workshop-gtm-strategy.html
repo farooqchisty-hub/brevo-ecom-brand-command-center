@@ -320,8 +320,17 @@
   /* ---------- lists ---------- */
 
   ul.plain { margin: 0; padding: 0; list-style: none; display: flex; flex-direction: column; gap: 11px; max-width: 74ch; }
-  ul.plain > li { display: grid; grid-template-columns: 20px 1fr; gap: 10px; font-size: 0.97rem; }
-  ul.plain > li::before { content: "—"; font-family: var(--font-mono); color: var(--ink-3); font-size: 0.85rem; line-height: 1.7; }
+  ul.plain > li { position: relative; padding-left: 26px; font-size: 0.97rem; }
+  ul.plain > li::before {
+    content: "—";
+    position: absolute;
+    left: 0;
+    top: 0;
+    font-family: var(--font-mono);
+    color: var(--ink-3);
+    font-size: 0.85rem;
+    line-height: 1.72;
+  }
 
   ol.steps { margin: 0; padding: 0; list-style: none; display: flex; flex-direction: column; gap: 1px; background: var(--rule); border: 1px solid var(--rule-hard); counter-reset: s; }
   ol.steps > li {
