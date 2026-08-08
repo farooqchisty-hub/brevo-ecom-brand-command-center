@@ -7,7 +7,9 @@
 
 ## 0. The one-paragraph thesis
 
-You are not a marketing creator. You are a **marketing engineer who publishes his receipts**. Every other person in this niche is teaching frameworks they read about; you are running a system that rebuilds itself every morning and measures things nobody else can measure — share of voice against Klaviyo and Omnisend, Reddit sentiment by theme, keyword decay, and how often an LLM cites your brand when nobody named it. That machine is not just your job. **It is a content generator that produces a publishable insight every single day, for free.** The entire strategy below is built on that unfair advantage: you don't source content ideas, you *harvest* them.
+You are not a marketing creator. You are a **marketing engineer who publishes his receipts**. Every other person in this niche is teaching frameworks they read about; you have *built* the thing — a system that rebuilds itself every morning and measures what almost nobody can: share of voice across a competitive set, community sentiment by theme, keyword decay, and how often an LLM cites a brand when nobody named it. Point that same machine at targets of your own choosing and **it becomes a content generator that produces a publishable insight every day, for free.** The entire strategy below is built on that unfair advantage: you don't source content ideas, you *harvest* them.
+
+> **This is a personal asset**, which means it has to survive you changing jobs. What you become known for is the **capability**, not your employer's data. §1.1b draws that line before anything else, and it governs everything after it.
 
 The second thesis: on Reels, you are not chasing views. You are chasing the right ~3,000 people. A marketing-engineering reel that gets 4,000 views and 60 DM shares from Heads of Growth is worth more than a 400k-view meme. Optimize for **sends**, not reach.
 
@@ -25,6 +27,22 @@ Alternates, if you want a different flavour:
 - "Marketing engineer. I turn GTM problems into software, on camera."
 - "I don't write marketing decks. I ship marketing machines."
 - "Growth operator who codes. AI-era GTM, built in public."
+
+### 1.1b The separation rule — what's yours, what's the day job's
+
+Your day job gave you the skill. It does not give you the content. The Brand Command Center proves you *can* build competitive-intelligence infrastructure — that's the credential. It is not a source of publishable numbers. Share of voice, citation rates, keyword decay and community sentiment on a live commercial category belong to your employer.
+
+| Yours to publish | Stays at work |
+|---|---|
+| The method — how you'd measure AI visibility for any brand | Your employer's actual figures |
+| The architecture — why one HTML file, why no external requests, how the daily rebuild works | Internal roadmap, unreleased work, anything under NDA |
+| The credential — "I run competitive intelligence for a marketing platform" | Customer data, pipeline data, named-account intel |
+| Results you generate on public or self-selected targets | Screenshots of the internal dashboard with real labels |
+| General lessons and patterns | Competitive strategy your employer hasn't published |
+
+**Operationally: stand up your own instance.** Same pattern, your deployment, your target list — public DTC brands and the categories you want to sell into. Every number it produces is then yours to publish. This is not extra work for its own sake: auditing brands your *audience* cares about is better content than auditing your employer, and the same run doubles as the consulting demo. The work version stays at work and never appears on camera with real labels.
+
+**Two things to settle before you post.** Check your employment agreement for moonlighting and outside-consulting clauses — you'd be selling into territory adjacent to your employer's. Then decide whether you name your employer in your bio. **I'd say no.** "Marketing engineer" travels with you; "Growth at [company]" makes your personal brand a subsidiary of theirs and resets to zero the day you leave.
 
 ### 1.2 The wedge (this is the important part)
 
@@ -53,11 +71,13 @@ Name the enemy in roughly 1 in 5 posts. It's the highest-share content you will 
 
 ### 1.4 Proof assets (your unfair moat)
 
-| Asset | What it proves | Content it generates |
+These are *capabilities*, not datasets. Each is something you can build and run against any target, so the proof travels with you and every figure you show comes off your own instance.
+
+| Capability | What it proves | Content it generates |
 |---|---|---|
-| Brand Command Center (daily rebuild, self-contained, zero external requests) | You ship production software | Build-in-public, architecture, receipts |
-| Share-of-model measurement (branded vs unbranded prompt citation rates) | You measure what others guess at | The strongest single content series you have |
-| Reddit/community sentiment by theme | You mine primary sources at scale | Pain-point content, "what buyers actually say" |
+| Building a self-rebuilding intelligence dashboard | You ship production software | Build-in-public, architecture, receipts |
+| Share-of-model measurement (branded vs unbranded citation rates) | You measure what others guess at | The strongest single content series you have |
+| Community sentiment mining by theme | You mine primary sources at scale | Pain-point content, "what buyers actually say" |
 | Keyword gain/loss tracking | You catch decay before it's a fire | Diagnostic teardowns |
 | Competitor content-gap mapping | You do strategy with data | "Here's what your competitor is publishing that you're not" |
 
@@ -165,7 +185,7 @@ You should never sit down and think "what should I post." Ideas arrive from seve
 
 ### Pipe 1 — Your own machine (the big one)
 
-**Recommendation: add a "Content Candidates" module to the Brand Command Center.** You already compute everything needed. On each daily rebuild, emit a small ranked list of publishable observations:
+**Recommendation: stand up a personal instance of the pipeline — your deployment, your target list of public brands — and add a "Content Candidates" module to it.** You already know how to build this, which is most of the work; pointing it at your own targets is what makes the output publishable. On each daily rebuild, emit a small ranked list of publishable observations:
 
 ```
 Content candidate rules (emit any that fire):
@@ -248,13 +268,15 @@ One concept, one framework, whiteboard or text-native. The thought-leadership pi
 
 Hooks are the entire game. Write 3 hooks per idea, film the best, and use Trial Reels to test the other two. Keep this file open when you script.
 
+> Every figure below is a **placeholder for a number off your own instance** — the shape of the hook is what matters, not the digits. Fill them from runs on public or self-selected brands, never from work. See §1.1b.
+
 ### Archetype A — The number you have and nobody else does
 - "I asked five AI models 'best email platform for Shopify' 500 times. Here's who they actually recommend."
-- "This brand shows up in 91% of AI answers when you name it — and 45% when you don't. That gap is the whole business."
+- "I ran a $200M DTC brand through my AI visibility system. It shows up in 91% of answers when you name it — and 44% when you don't. That gap is the whole business."
 - "I scraped 4,000 Reddit posts about email marketing. The #1 complaint isn't pricing."
 - "Your competitor gained 200 keywords last month. You lost 340. Nobody on your team noticed."
 - "Three companies. One category. Here's who owns the conversation — and it's not who you think."
-- "9.1% versus 33%. That's the entire competitive story of this category in one number."
+- "12% versus 41%. That's the entire competitive story of this category in one number."
 
 ### Archetype B — Contrarian / enemy
 - "SEO isn't dying. It's being replaced by something you're not measuring."
@@ -480,9 +502,10 @@ Ignore: likes, follower count as a headline, view count in isolation.
 ## 11. 90-day roadmap
 
 ### Days 1–7 — Foundation
+- [ ] Settle the separation rule — read your employment agreement, decide on naming your employer (§1.1b)
 - [ ] Lock positioning sentence, bio, name field, link page
 - [ ] Build the visual kit: cover template, caption preset, series identifiers, sign-off
-- [ ] Ship the **Content Candidates module** in the Brand Command Center (§4, Pipe 1)
+- [ ] Stand up your **personal instance** + the **Content Candidates module**, pointed at your own target list (§4, Pipe 1)
 - [ ] Set up the Kanban (Idea → Scripted → Filmed → Edited → Scheduled → Posted → Analysed)
 - [ ] Harvest 20 ideas, write 20 hooks
 - [ ] Film the first batch: 5 reels
@@ -499,7 +522,7 @@ Ignore: likes, follower count as a headline, view count in isolation.
 - Move to 7/week; the repurposing ladder is now running on every hero
 - Launch **"Roast My Stack"** (community engine — it generates its own content supply)
 - Announce and run the **webinar**, seeded entirely from Vibe Build episodes
-- Start posting explicit proof-of-work: the actual Brand Command Center, on camera
+- Start posting explicit proof of work — your own instance, on camera, real labels and all
 - Target by day 60: 2+ qualified consulting conversations/week, webinar shipped
 
 ### Days 61–90 — Convert
@@ -517,7 +540,7 @@ Filed by series and tier so you can film in batches. `H` = Hero, `U` = Hub, `Y` 
 
 **Answer Engine Autopsy**
 1. `H` "I asked five AI models 'best email platform for Shopify' 500 times. Here's the leaderboard."
-2. `H` "This brand is in 91% of AI answers when you name it, 45% when you don't. Here's what that gap costs."
+2. `H` "I ran a $200M DTC brand through my system. In 91% of AI answers when you name it, 44% when you don't. Here's what that gap costs."
 3. `H` Autopsy: a well-known DTC brand's AI visibility, end to end
 4. `U` "Three ways your brand can be invisible to an LLM — and only one is fixable this quarter"
 5. `Y` "Your citation rate in 20 seconds" — screen only
@@ -571,6 +594,8 @@ Filed by series and tier so you can film in batches. `H` = Hero, `U` = Hub, `Y` 
 | Filming on posting day | Guarantees missed days | Two-week buffer, always |
 | Ignoring DMs | Your revenue is in DMs | 24-hour reply rule |
 | Idea drought | Root cause of quitting | Buffer rule: never below 10 ideas |
+| Publishing the day job's data | An employment problem and a strategy one — it welds your brand to theirs | Every figure comes off your own instance (§1.1b) |
+| Leading with your employer's name | Your brand resets to zero when you leave | "Marketing engineer", never "Growth at [company]" |
 
 ---
 
