@@ -46,15 +46,15 @@ Highest intent: these readers are running the stores Brevo Ecom is sold into.
 
 | # | Newsletter | Audience | Why it fits | Est. cost | What $4k buys |
 |---|---|---|---|---|---|
-| 1 | **DTC Newsletter** (directtoconsumer.co) | ~160k DTC founders + marketing execs, daily | The default read for DTC operators. Tactical performance-marketing content — retention/email sits natively in it | $3–4k | Primary, or 2 secondary slots |
-| 2 | **Chase Dimond** (chasedimond.com) | 100k+, 46% open, 3x/week | Best single fit in the list. An email-marketing newsletter read by ecom founders — readers are actively shopping for an ESP. Already sponsored by Omnisend (a direct competitor) | $2.5–3.5k | Primary + social amplification |
-| 3 | **2PM** (2pml.com) | ~25–60k commerce/media execs | Small but the most senior commerce audience anywhere. High CPM, worth it for brand credibility with mid-market | $2.5–4k | Primary in a Monday memo |
-| 4 | **Future Commerce** | ~40k + top-ranked commerce podcast | Thought-leadership positioning; podcast bundle is the value here | $2–4k | Newsletter + host-read podcast bundle |
-| 5 | **Ecommerce Fastlane** (Steve Hutt) | ~28–50k Shopify merchants, 420+ podcast eps | Shopify-native audience, explicitly sells merchant-reach packages to vendors | $1.5–3.5k | Newsletter + full podcast episode |
-| 6 | **eCommerceFuel** | ~15–25k, 7-figure store owners | Smallest list here, highest revenue-per-reader. Vetted community of established merchants | $1–2.5k | Primary + community placement |
-| 7 | **Lean Luxe** | ~25–35k modern consumer brand execs | Premium DTC brand builders; strong for mid-market positioning | $1–2.5k | Primary |
-| 8 | **Talk Shop Daily** | ~10–20k, daily, Shopify ecosystem | Cheap, daily, dead-on audience. Good for frequency testing | $0.5–1.2k | 3–4 sends |
-| 9 | **Shopifreaks** | ~10–15k, weekly ecom news roundup | Long-running, well-regarded independent. Cheapest credible ecom slot | $0.4–0.9k | 4+ sends |
+| 1 | **[DTC Newsletter](https://www.directtoconsumer.co/advertise)** | ~160k DTC founders + marketing execs, daily | The default read for DTC operators. Tactical performance-marketing content — retention/email sits natively in it | $3–4k | Primary, or 2 secondary slots |
+| 2 | **[Chase Dimond](https://www.chasedimond.com/sponsor)** | 100k+, 46% open, 3x/week | Best single fit in the list. An email-marketing newsletter read by ecom founders — readers are actively shopping for an ESP. Already sponsored by Omnisend (a direct competitor) | $2.5–3.5k | Primary + social amplification |
+| 3 | **[2PM](https://2pml.com/about/)** | ~25–60k commerce/media execs | Small but the most senior commerce audience anywhere. High CPM, worth it for brand credibility with mid-market | $2.5–4k | Primary in a Monday memo |
+| 4 | **[Future Commerce](https://www.futurecommerce.com/sponsorship)** | ~40k + top-ranked commerce podcast | Thought-leadership positioning; podcast bundle is the value here | $2–4k | Newsletter + host-read podcast bundle |
+| 5 | **[Ecommerce Fastlane](https://ecommercefastlane.com/sponsorship/)** | ~28–50k Shopify merchants, 420+ podcast eps | Shopify-native audience, explicitly sells merchant-reach packages to vendors | $1.5–3.5k | Newsletter + full podcast episode |
+| 6 | **[eCommerceFuel](https://www.ecommercefuel.com/)** | ~15–25k, 7-figure store owners | Smallest list here, highest revenue-per-reader. Vetted community of established merchants | $1–2.5k | Primary + community placement |
+| 7 | **[Lean Luxe](https://leanluxe.news/)** | ~25–35k modern consumer brand execs | Premium DTC brand builders; strong for mid-market positioning | $1–2.5k | Primary |
+| 8 | **[Talk Shop Daily](https://www.letstalkshop.com/)** | ~10–20k, daily, Shopify ecosystem | Cheap, daily, dead-on audience. Good for frequency testing | $0.5–1.2k | 3–4 sends |
+| 9 | **[Shopifreaks](https://www.shopifreaks.com/)** | 20k+, weekly ecom news, incl. platform execs | Long-running independent roundup by Paul Drecksler. Cheapest credible ecom slot | $0.4–0.9k | 4+ sends |
 
 ### Tier 2 — Email / CRM practitioners
 
@@ -62,9 +62,9 @@ Category-adjacent: these readers already believe in the product category and are
 
 | # | Newsletter | Audience | Why it fits | Est. cost | What $4k buys |
 |---|---|---|---|---|---|
-| 10 | **Really Good Emails** | ~100k+ email marketers & designers | The email-marketing community. Highest category intent of any list here | $2–4k | Primary |
-| 11 | **Jay Schwedelson — "Do This, Not That"** | ~50k email/marketing pros | Practitioner tactics, high engagement, strong personal endorsement value | $1–2.5k | Primary + podcast mention |
-| 12 | **Email Marketing Heroes** (Rob & Kennedy) | ~30k + podcast | Ecom-leaning email automation audience; host-read podcast converts well | $1–2.5k | Newsletter + podcast |
+| 10 | **[Really Good Emails](https://reallygoodemails.com/)** | ~100k+ email marketers & designers | The email-marketing community. Highest category intent of any list here | $2–4k | Primary |
+| 11 | **[Jay Schwedelson — "Do This, Not That"](https://www.jayschwedelson.com/newsletter)** | ~50k email/marketing pros | Practitioner tactics, high engagement, strong personal endorsement value | $1–2.5k | Primary + podcast mention |
+| 12 | **[Email Marketing Heroes](https://emailmarketingheroes.com/)** | ~30k + podcast | Ecom-leaning email automation audience; host-read podcast converts well | $1–2.5k | Newsletter + podcast |
 
 ### Tier 3 — Marketing & growth
 
@@ -72,13 +72,13 @@ Broader, but the buying committee for an ESP sits here.
 
 | # | Newsletter | Audience | Why it fits | Est. cost | What $4k buys |
 |---|---|---|---|---|---|
-| 13 | **Stacked Marketer** | ~90–100k performance marketers, daily | ~$100 CPM private rate — tight against the cap but the audience is buyers. Book 3–4 weeks ahead; last-minute inventory is where discounts live | $3.5–4k | Primary, or primary + "Rounding Up The Stack" bullet |
-| 14 | **Demand Curve** | 100k+, 50%+ open | Exceptional open rate; growth playbook content that email/automation fits into | $2–3k | Primary |
-| 15 | **Marketing Examined** (Alex Garcia) | ~200k growth marketers | Reach is now above the cap for the primary slot ($65–75k/mo in sponsorship revenue). Buy the secondary | $2.5–4k | Secondary slot only |
-| 16 | **Marketing Examples** (Harry Dry) | 130k+ | Copy/conversion case studies; huge reach for the price | $3–4k | Primary |
-| 17 | **The Marketing Millennials** (Daniel Murray) | ~100k+ | Broad marketer reach with strong social spillover | $3–4k | Primary + LinkedIn amplification |
-| 18 | **Why We Buy** (Katelyn Bourgoin) | ~70k | Buyer-psychology angle pairs naturally with lifecycle/retention messaging | $1.5–3k | Primary |
-| 19 | **Growth in Reverse** (Chenell Basilio) | ~60k, deep-dive format | Very high engagement per subscriber; readers are newsletter/email operators | $2–3k | Primary |
+| 13 | **[Stacked Marketer](https://www.stackedmarketer.com/)** | ~90–100k performance marketers, daily | ~$100 CPM private rate — tight against the cap but the audience is buyers. Book 3–4 weeks ahead; last-minute inventory is where discounts live | $3.5–4k | Primary, or primary + "Rounding Up The Stack" bullet |
+| 14 | **[Demand Curve](https://www.demandcurve.com/sponsorships)** | 100k+, 50%+ open | Exceptional open rate; growth playbook content that email/automation fits into | $2–3k | Primary |
+| 15 | **[Marketing Examined](https://www.marketingexamined.com/)** | ~200k growth marketers | Reach is now above the cap for the primary slot ($65–75k/mo in sponsorship revenue). Buy the secondary | $2.5–4k | Secondary slot only |
+| 16 | **[Marketing Examples](https://marketingexamples.com/)** | 130k+ | Copy/conversion case studies; huge reach for the price | $3–4k | Primary |
+| 17 | **[The Marketing Millennials](https://www.themarketingmillennials.com/)** | ~100k+ | Broad marketer reach with strong social spillover | $3–4k | Primary + LinkedIn amplification |
+| 18 | **[Why We Buy](https://customercamp.co/)** | ~70k | Buyer-psychology angle pairs naturally with lifecycle/retention messaging | $1.5–3k | Primary |
+| 19 | **[Growth in Reverse](https://growthinreverse.com/)** | ~60k, deep-dive format | Very high engagement per subscriber; readers are newsletter/email operators | $2–3k | Primary |
 
 ### Tier 4 — Founders, startups & tech
 
@@ -86,12 +86,12 @@ Cheapest reach in the set. Good for top-of-funnel and free-tier signups, weaker 
 
 | # | Newsletter | Audience | Why it fits | Est. cost | What $4k buys |
 |---|---|---|---|---|---|
-| 20 | **Starter Story** | ~100k+ founders | Case-study format; founders launching stores are a free-tier pipeline | $2–4k | Primary |
-| 21 | **Indie Hackers** | ~80k builders | Historically ~$750–2k a slot — one of the best reach-per-dollar buys anywhere | $0.8–2k | Multiple sends |
-| 22 | **Failory** | 40k+ founders | Cheap, engaged startup audience | $0.8–1.8k | Primary + repeat |
-| 23 | **Trends.vc** (Dru Riley) | ~50k operators | Research-report format, high trust, sponsorship inventory is limited | $1–2k | Primary |
-| 24 | **TLDR Marketing** (segment edition) | Segment of TLDR's 7.2M network | The flagship is ~$15k, but the segmented Marketing edition is reachable. Ask for the edition rate card, not the network one | $2–4k | Secondary/classified on the marketing edition |
-| 25 | **Sifted** | ~100k European tech/startup | Brevo's home-market strength is Europe — this is the one buy that indexes on the region rather than the US | $2–4k | Primary |
+| 20 | **[Starter Story](https://www.starterstory.com/)** | ~100k+ founders | Case-study format; founders launching stores are a free-tier pipeline | $2–4k | Primary |
+| 21 | **[Indie Hackers](https://www.indiehackers.com/)** | ~80k builders | Historically ~$750–2k a slot — one of the best reach-per-dollar buys anywhere | $0.8–2k | Multiple sends |
+| 22 | **[Failory](https://www.failory.com/)** | 40k+ founders | Cheap, engaged startup audience | $0.8–1.8k | Primary + repeat |
+| 23 | **[Trends.vc](https://sponsor.trends.vc/)** | ~50k operators | Research-report format, high trust, sponsorship inventory is limited | $1–2k | Primary |
+| 24 | **[TLDR Marketing](https://tldr.tech/advertise)** | Segment of TLDR's 7.2M network | The flagship is ~$15k, but the segmented Marketing edition is reachable. Ask for the edition rate card, not the network one | $2–4k | Secondary/classified on the marketing edition |
+| 25 | **[Sifted](https://sifted.eu/)** | ~100k European tech/startup | Brevo's home-market strength is Europe — this is the one buy that indexes on the region rather than the US | $2–4k | Primary |
 
 ---
 
